@@ -323,7 +323,7 @@
     "bolt11": "1.2.4",
     "coininfo": "4.4.0",
     "config": "3.0.1",
-    "connected-react-router": "5.0.1",
+    "connected-react-router": "6.3.2",
     "copy-to-clipboard": "3.1.0",
     "country-data-lookup": "0.0.3",
     "debug": "4.1.1",
